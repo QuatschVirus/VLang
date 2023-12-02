@@ -1,7 +1,7 @@
 ---
 name: Internal Error Template
 about: Report an internal error shown by the compiler
-title: ''
+title: Internal Error
 labels: ''
 assignees: ''
 
