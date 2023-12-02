@@ -7,17 +7,21 @@ assignees: ''
 
 ---
 
-*Error Message*
+## Error Message
 ```
 [paste the error message here, ideally make sure to keep the tick symbols]
 ```
 
-*Command*
+## Command
 `[command you started the compiler with]`
 
-*System and Version Information*
+## System and Version Information
 OS: 
+
 Compiler Version:
+
 .NET version: 
 
-Please attach relevant files from your code
+---
+
+Please attach relevant files from your code, and any information you think might also be relevant
