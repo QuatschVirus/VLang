@@ -1,0 +1,6 @@
+Name: FancyExamplePoject
+Source: src
+Compile:
+  Langauge: C#
+  Target: build
+  Flags: d

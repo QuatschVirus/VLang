@@ -1,0 +1,10 @@
+ref "std";
+
+int sum(int a, int b):
+    int result = a + b;
+    ret result;
+;
+
+int a = 3;
+array4 int nums = {1, 2, 3, 4};
+print(sum(a, nums[2]);
